@@ -1,0 +1,42 @@
+{
+  "identifier": "antlerlog",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Antler Log Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "antlerlog_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlocks a photo per find and season-over-season find map notes.",
+              "displayName": "Antler Log Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "antlerlog_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Antler Log Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
