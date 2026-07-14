@@ -12,6 +12,10 @@ struct ContentView: View {
     @State private var newPoints: String = ""
     @State private var newSize: String = ""
 
+    @State private var editLocation: String = ""
+    @State private var editPoints: String = ""
+    @State private var editSize: String = ""
+
     var body: some View {
         NavigationStack {
             ZStack {
