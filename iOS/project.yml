@@ -56,7 +56,7 @@ targets:
         GENERATE_INFOPLIST_FILE: "YES"
         TARGETED_DEVICE_FAMILY: "1"
 schemes:
-  AntlerLog:
+  Antler Log:
     build:
       targets:
         AntlerLog: all
